@@ -1,3 +1,6 @@
+// Import your global CSS file
+import "../global.css";
+
 import { Slot, Stack } from "expo-router";
 import { StyleSheet, Text, View } from "react-native";
 
